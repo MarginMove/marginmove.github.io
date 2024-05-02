@@ -7,7 +7,7 @@ We take your privacy very seriously. We thus collect only the absolute minimum a
 * We store the location, price, and other data you provide when you publish a spot. The selfie is only visible to users within a 1 km radius of the spot.
 * We store metadata of the transaction when you buy or sell a spot.
 
-Apart from that, no personal data ever leaves your device.
+Apart from that, no personal data ever leaves your device. You can request deletion of your data by [contacting us](mailto:contact@marginmove.com).
 
 Our Privacy Policy might change from time to time. When we change the policy, we will post the changes on this page.
 If you have any questions regarding our Privacy Policy, please [contact us](mailto:contact@marginmove.com).
