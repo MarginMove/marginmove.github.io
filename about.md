@@ -3,4 +3,5 @@ MarginMove Inc.
 19713 Newark  
 
 CEO: Malte Niendorf  
+CTO: Frederik Fraaz  
 Email: [contact@marginmove.com](mailto:contact@marginmove.com)
