@@ -1,2 +1,2 @@
-[Taqo](https://apple.co/4ay1poE)  
+[Taqo](https://taqo.app)  
 [About](about)
