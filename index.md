@@ -1,2 +1,2 @@
-[Taqo](https://taqo.app)  
+[Taqo](taqo)  
 [About](about)
