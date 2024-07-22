@@ -1,4 +1,4 @@
-### Privacy Policy
+#### Privacy Policy
 
 We take your privacy very seriously. We thus collect only the absolute minimum amount of information necessary to provide our service:
 * We collect your email address when you sign up.

@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+---
+
 MarginMove Inc.  
 131 Continental Dr, Suite 305  
 19713 Newark  
