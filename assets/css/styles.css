@@ -24,3 +24,12 @@
 .spaced-top {
   margin-top: 70px;
 }
+
+/* override styles from minima theme */
+.site-header {
+  border-top: 0;
+}
+
+.post-title {
+  font-size: 0;
+}

@@ -1,7 +1,5 @@
 <div class="centered">
-  <a href="https://taqo.app">
-    <img src="assets/images/icon.png" alt="Taqo" width="200" class="icon">
-  </a>
+  <img src="assets/images/icon.png" alt="Taqo" width="200" class="icon">
   <h1 class="heading">Taqo - Skip the Line</h1>
   <p>Buy and sell spots in real-world waiting lines.</p>
 </div>
